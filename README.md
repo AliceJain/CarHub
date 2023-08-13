@@ -1,18 +1,69 @@
-# Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
-![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
+# <a href="https://car-hub-orpin.vercel.app/">CarHub</a>
 
-## Introduction
-The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router. 
- 
-Alongside building this application, you'll also learn how to:
-- Use Next.js 13 App Router and Server Side Rendering
-- Implement Advanced Search Functionality
-- Create Filtering Capabilities
-- Optimize Metadata and SEO
-- Create custom filter, combobox, and modal elements
-- Maintain a well-organized file and folder structure.
-- Embrace the principles of writing clean code.
+<br>
+<img src ="readme_assets\page.png"></img>
+<img src ="readme_assets\page2.png"></img>
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+
+<hr>
+<hr>
+
+
+# Project Description
+
+CarHub is a dynamic and user-friendly car showroom web application built with Next.js, Tailwind CSS, and TypeScript. It leverages the power of server-side rendering to provide users with a seamless and efficient experience while browsing and exploring various types of cars. With CarHub, users can effortlessly search, filter, and obtain detailed information about a wide range of cars, thanks to the integration of car APIs from Rapid API and car image APIs from Imagine.
+
+<br>
+
+<hr>
+<hr>
+
+# Technologies Used
+
+![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue)
+![Next.JS](https://img.shields.io/badge/NextJs-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![Tailwind-CSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB)
+![RapidAPI](https://img.shields.io/badge/RapidAPI-ADE?style=for-the-badge&logo=firebas&logoColor=white)
+
+<br>
+<hr>
+<hr>
+
+<!-- <br> -->
+
+# Set Up
+
+### Clone the repo.
+
+```
+git clone https://github.com/${GitHub Username}/CarHub.git
+```
+
+<br>
+
+### Open Terminal on the Folder
+
+```
+cd CarHub
+```
+
+<br>
+
+### Install the Dependencies
+
+```
+npm install
+```
+
+<br>
+
+### Run the UI
+
+```
+npm run dev
+or
+yarn start
+```
+
+<br>
+<hr>
